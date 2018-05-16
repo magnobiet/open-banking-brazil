@@ -2,7 +2,7 @@
 
 ## Banks
 
-| Bank            | URL                                 | API Reference                                    |
+| Bank            | Developers page                     | API reference                                    |
 | --------------- | ----------------------------------- | ------------------------------------------------ |
 | Banco do Brasil | https://developers.bb.com.br/       | https://developers.bb.com.br/docs                |
 | Original        | https://developers.original.com.br/ | https://developers.original.com.br/docs          |
