@@ -2,11 +2,11 @@
 
 ## Banks
 
-| Bank            | URL                                 |
-| --------------- | ----------------------------------- |
-| Banco do Brasil | https://developers.bb.com.br/       |
-| Original        | https://developers.original.com.br/ |
-| Sicoob          | https://developers.sicoob.com.br/   |
+| Bank            | URL                                 | API Reference                                    |
+| --------------- | ----------------------------------- | ------------------------------------------------ |
+| Banco do Brasil | https://developers.bb.com.br/       | https://developers.bb.com.br/docs                |
+| Original        | https://developers.original.com.br/ | https://developers.original.com.br/docs          |
+| Sicoob          | https://developers.sicoob.com.br/   | https://developers.sicoob.com.br/#!/documentacao |
 
 ## License
 
