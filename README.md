@@ -2,11 +2,12 @@
 
 ## Banks
 
-| Bank            | Developers page                     | API reference                                    |
-| --------------- | ----------------------------------- | ------------------------------------------------ |
-| Banco do Brasil | https://developers.bb.com.br/       | https://developers.bb.com.br/docs                |
-| Original        | https://developers.original.com.br/ | https://developers.original.com.br/docs          |
-| Sicoob          | https://developers.sicoob.com.br/   | https://developers.sicoob.com.br/#!/documentacao |
+| Bank            | Developers page                                                    | API reference                                    |
+| --------------- | ------------------------------------------------------------------ | ------------------------------------------------ |
+| Banco do Brasil | https://developers.bb.com.br/                                      | https://developers.bb.com.br/docs                |
+| Original        | https://developers.original.com.br/                                | https://developers.original.com.br/docs          |
+| Sicoob          | https://developers.sicoob.com.br/                                  | https://developers.sicoob.com.br/#!/documentacao |
+| Rendimento      | https://www.rendimento.com.br/parceiros/apis-para-desenvolvedores/ | -                                                |
 
 ## License
 
