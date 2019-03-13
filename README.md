@@ -1,5 +1,7 @@
 # Open Banking Brazil
 
+> Open Banking is the secure way to give providers access to your financial information.
+
 ## Banks
 
 | Bank            | Developers page                                                    | API reference                                    |
@@ -8,6 +10,11 @@
 | Original        | https://developers.original.com.br/                                | https://developers.original.com.br/docs          |
 | Rendimento      | https://www.rendimento.com.br/parceiros/apis-para-desenvolvedores/ | -                                                |
 | Sicoob          | https://developers.sicoob.com.br/                                  | https://developers.sicoob.com.br/#!/documentacao |
+
+## Utils
+
+- https://www.openbanking.org.uk/
+- https://www.openbankproject.com/
 
 ## License
 
