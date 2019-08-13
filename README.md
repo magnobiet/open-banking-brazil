@@ -15,6 +15,8 @@
 
 - https://www.openbanking.org.uk/
 - https://www.openbankproject.com/
+- https://openbankingbrasil.com.br/
+- https://openbankingday.com/
 
 ## License
 
