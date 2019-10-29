@@ -19,6 +19,11 @@
 - https://openbankingbrasil.com.br/
 - https://openbankingday.com/
 
+### Banco Central do Brasil
+
+- [Brazilian open banking model - First steps](https://www.bcb.gov.br/en/pressdetail/2284/nota)
+- [Comunicado n° 33.455 de 24/4/2019 ](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&numero=33455)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
