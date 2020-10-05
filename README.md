@@ -11,6 +11,7 @@
 | Rendimento      | https://www.rendimento.com.br/parceiros/apis-para-desenvolvedores/ | -                                                |
 | Sicoob          | https://developers.sicoob.com.br/                                  | https://developers.sicoob.com.br/#!/documentacao |
 | Votorantim      | https://developers-des.bancovotorantim.com.br/                     | -                                                |
+| Itaú            | https://developer.itau.com.br/                                     | -                                                |
 
 ## Utils
 
