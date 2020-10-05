@@ -4,15 +4,17 @@
 
 ## Banks
 
-| Bank            | Developers page                                                    | API reference                                    |
-| --------------- | ------------------------------------------------------------------ | ------------------------------------------------ |
-| Banco do Brasil | https://developers.bb.com.br/                                      | https://developers.bb.com.br/docs                |
-| Original        | https://developers.original.com.br/                                | https://developers.original.com.br/docs          |
-| Rendimento      | https://www.rendimento.com.br/parceiros/apis-para-desenvolvedores/ | -                                                |
-| Sicoob          | https://developers.sicoob.com.br/                                  | https://developers.sicoob.com.br/#!/documentacao |
-| Votorantim      | https://developers-des.bancovotorantim.com.br/                     | -                                                |
-| Itaú            | https://developer.itau.com.br/                                     | -                                                |
-| BS2             | https://devs.bs2.com/                                              | https://devs.bs2.com/manual/banking/             |
+| Bank            | Developers page                                                    | API reference                                          |
+| --------------- | ------------------------------------------------------------------ | ------------------------------------------------------ |
+| Banco do Brasil | https://developers.bb.com.br/                                      | https://developers.bb.com.br/docs                      |
+| Original        | https://developers.original.com.br/                                | https://developers.original.com.br/docs                |
+| Rendimento      | https://www.rendimento.com.br/parceiros/apis-para-desenvolvedores/ | -                                                      |
+| Sicoob          | https://developers.sicoob.com.br/                                  | https://developers.sicoob.com.br/#!/documentacao       |
+| Votorantim      | https://developers-des.bancovotorantim.com.br/                     | -                                                      |
+| Itaú            | https://developer.itau.com.br/                                     | -                                                      |
+| BS2             | https://devs.bs2.com/                                              | https://devs.bs2.com/manual/banking/                   |
+| BTG Pactual     | https://developer.btgpactual.com/                                  | https://sandbox.developer.btgpactual.com/admin/sandbox | 
+| Caixa           | https://desenvolvedores.caixa.gov.br/                              | -                                                      | 
 
 ## Utils
 
