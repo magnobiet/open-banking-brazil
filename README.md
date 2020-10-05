@@ -13,6 +13,7 @@
 | Caixa           | https://desenvolvedores.caixa.gov.br/                              | -                                                      |
 | Inter           | -                                                                  | -                                                      |
 | Itaú            | https://developer.itau.com.br/                                     | -                                                      |
+| NuBank          | -                                                                  | -                                                      |
 | Original        | https://developers.original.com.br/                                | https://developers.original.com.br/docs                |
 | Rendimento      | https://www.rendimento.com.br/parceiros/apis-para-desenvolvedores/ | -                                                      |
 | Santander       | https://developerhub.santander.com/                                | -                                                      |
