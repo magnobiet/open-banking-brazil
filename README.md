@@ -13,6 +13,7 @@
 | Itaú            | https://developer.itau.com.br/                                     | -                                                      |
 | Original        | https://developers.original.com.br/                                | https://developers.original.com.br/docs                |
 | Rendimento      | https://www.rendimento.com.br/parceiros/apis-para-desenvolvedores/ | -                                                      |
+| Santander       | https://developerhub.santander.com/                                | -                                                      |
 | Sicoob          | https://developers.sicoob.com.br/                                  | https://developers.sicoob.com.br/#!/documentacao       |
 | Votorantim      | https://developers-des.bancovotorantim.com.br/                     | -                                                      |
 
