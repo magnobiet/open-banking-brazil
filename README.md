@@ -18,6 +18,7 @@
 | Rendimento      | https://www.rendimento.com.br/parceiros/apis-para-desenvolvedores/ | -                                                      |
 | Santander       | https://developerhub.santander.com/                                | -                                                      |
 | Sicoob          | https://developers.sicoob.com.br/                                  | https://developers.sicoob.com.br/#!/documentacao       |
+| Stark Bank      | https://starkbank.com/sandbox                                      | https://starkbank.com/docs/api                         |
 | Votorantim      | https://developers-des.bancovotorantim.com.br/                     | -                                                      |
 
 ## Utils
