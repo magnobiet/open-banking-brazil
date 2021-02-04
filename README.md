@@ -23,9 +23,10 @@
 
 ## Utils
 
+- https://openbankingbrasil.org.br/
+- https://openbankingbrasil.com.br/
 - https://www.openbanking.org.uk/
 - https://www.openbankproject.com/
-- https://openbankingbrasil.com.br/
 - https://openbankingday.com/
 - https://www.openbankingtracker.com/
 
