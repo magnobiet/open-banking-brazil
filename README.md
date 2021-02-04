@@ -4,22 +4,22 @@
 
 ## Banks
 
-| Bank            | Developers page                                                    | API reference                                          |
-| --------------- | ------------------------------------------------------------------ | ------------------------------------------------------ |
-| Banco do Brasil | https://developers.bb.com.br/                                      | https://developers.bb.com.br/docs                      |
-| Bradesco        | https://developers.bradesco.com.br/                                | -                                                      |
-| BS2             | https://devs.bs2.com/                                              | https://devs.bs2.com/manual/banking/                   |
-| BTG Pactual     | https://developer.btgpactual.com/                                  | https://sandbox.developer.btgpactual.com/admin/sandbox |
-| Caixa           | https://desenvolvedores.caixa.gov.br/                              | -                                                      |
-| Inter           | https://developers.bancointer.com.br/                              | -                                                      |
-| Itaú            | https://developer.itau.com.br/                                     | -                                                      |
-| NuBank          | -                                                                  | -                                                      |
-| Original        | https://developers.original.com.br/                                | https://developers.original.com.br/docs                |
-| Rendimento      | https://www.rendimento.com.br/parceiros/apis-para-desenvolvedores/ | -                                                      |
-| Santander       | https://developerhub.santander.com/                                | -                                                      |
-| Sicoob          | https://developers.sicoob.com.br/                                  | https://developers.sicoob.com.br/#!/documentacao       |
-| Stark Bank      | https://starkbank.com/sandbox                                      | https://starkbank.com/docs/api                         |
-| Votorantim      | https://developers-des.bancovotorantim.com.br/                     | -                                                      |
+| Bank            | Developers page                                                    | API reference                                          | Status page                                           |
+| --------------- | ------------------------------------------------------------------ | ------------------------------------------------------ | ----------------------------------------------------- |
+| Banco do Brasil | https://developers.bb.com.br/                                      | https://developers.bb.com.br/docs                      | -                                                     |
+| Bradesco        | https://developers.bradesco.com.br/                                | -                                                      | -                                                     |
+| BS2             | https://devs.bs2.com/                                              | https://devs.bs2.com/manual/banking/                   | -                                                     |
+| BTG Pactual     | https://developer.btgpactual.com/                                  | https://sandbox.developer.btgpactual.com/admin/sandbox | https://status.btgpactual.com/                        | 
+| Caixa           | https://desenvolvedores.caixa.gov.br/                              | -                                                      | -                                                     |
+| Inter           | https://developers.bancointer.com.br/                              | -                                                      | -                                                     |
+| Itaú            | https://developer.itau.com.br/                                     | -                                                      | https://developer.itau.com.br/api-catalog/openbanking | 
+| NuBank          | -                                                                  | -                                                      | -                                                     |
+| Original        | https://developers.original.com.br/                                | https://developers.original.com.br/docs                | -                                                     |
+| Rendimento      | https://www.rendimento.com.br/parceiros/apis-para-desenvolvedores/ | -                                                      | -                                                     |
+| Santander       | https://developerhub.santander.com/                                | -                                                      | -                                                     |
+| Sicoob          | https://developers.sicoob.com.br/                                  | https://developers.sicoob.com.br/#!/documentacao       | https://status.sisbr.com.br/                          |
+| Stark Bank      | https://starkbank.com/sandbox                                      | https://starkbank.com/docs/api                         | https://status.starkbank.com/                         |
+| Votorantim      | https://developers-des.bancovotorantim.com.br/                     | -                                                      | -                                                     |
 
 ## Utils
 
