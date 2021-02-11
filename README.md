@@ -36,11 +36,13 @@
 - https://www.openbankproject.com/
 - https://openbankingday.com/
 - https://www.openbankingtracker.com/
+- https://openbanking-brasil.github.io/
 
 ### Banco Central do Brasil
 
 - [Brazilian open banking model - First steps](https://www.bcb.gov.br/en/pressdetail/2284/nota)
 - [Comunicado n° 33.455 de 24/4/2019 ](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Comunicado&numero=33455)
+- [Participantes do Open Banking - json](https://data.directory.openbankingbrasil.org.br/participants)
 
 ## License
 
