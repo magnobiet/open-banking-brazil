@@ -25,8 +25,8 @@
 
 | Plataform | Page                       |
 | --------- | -------------------------- |
-| Bankly    | https://www.bankly.com.br/ |
 | Quanto    | https://quan.to/           |
+| ...       | ...                        |
 
 ## Utils
 
