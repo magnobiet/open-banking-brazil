@@ -21,6 +21,13 @@
 | Stark Bank      | https://starkbank.com/sandbox                                      | https://starkbank.com/docs/api                         | https://status.starkbank.com/                         |
 | Votorantim      | https://developers-des.bancovotorantim.com.br/                     | -                                                      | -                                                     |
 
+## Plataforms
+
+| Plataform | Page                       |
+| --------- | -------------------------- |
+| Bankly    | https://www.bankly.com.br/ |
+| Quanto    | https://quan.to/           |
+
 ## Utils
 
 - https://openbankingbrasil.org.br/
