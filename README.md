@@ -19,7 +19,7 @@
 | Santander       | https://developerhub.santander.com/                                | -                                                      | -                                                     |
 | Sicoob          | https://developers.sicoob.com.br/                                  | https://developers.sicoob.com.br/#!/documentacao       | https://status.sisbr.com.br/                          |
 | Stark Bank      | https://starkbank.com/sandbox                                      | https://starkbank.com/docs/api                         | https://status.starkbank.com/                         |
-| Votorantim      | https://developers-des.bancovotorantim.com.br/                     | -                                                      | -                                                     |
+| banco BV        | https://www.bvopen.com.br/                                         | http://bvopen.com.br/solucoes                          | -                                                     |
 
 ## Plataforms
 
