@@ -16,7 +16,7 @@
 | NuBank          | -                                                                  | -                                                      | -                                                     |
 | Original        | https://developers.original.com.br/                                | https://developers.original.com.br/docs                | -                                                     |
 | Rendimento      | https://www.rendimento.com.br/parceiros/apis-para-desenvolvedores/ | -                                                      | -                                                     |
-| Santander       | https://developerhub.santander.com/                                | -                                                      | -                                                     |
+| Santander       | https://developer.santander.com/pt/brazil                           | -                                                      | -                                                     |
 | Sicoob          | https://developers.sicoob.com.br/                                  | https://developers.sicoob.com.br/#!/documentacao       | https://status.sisbr.com.br/                          |
 | Stark Bank      | https://starkbank.com/sandbox                                      | https://starkbank.com/docs/api                         | https://status.starkbank.com/                         |
 | banco BV        | https://www.bvopen.com.br/                                         | http://bvopen.com.br/solucoes                          | -                                                     |
