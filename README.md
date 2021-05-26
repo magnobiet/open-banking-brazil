@@ -23,9 +23,10 @@
 
 ## Plataforms
 
-| Plataform | Page                        |
-| --------- | --------------------------- |
-| Quanto    | [quan.to](https://quan.to/) |
+| Plataform | Page                                                                         |
+| --------- | ---------------------------------------------------------------------------- |
+| Quanto    | [quan.to](https://quan.to/)                                                  |
+| TecBan    | [tecban.com.br](https://www.tecban.com.br/produtos-e-solucoes/open-finance/) |
 
 ## Utils
 
