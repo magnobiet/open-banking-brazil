@@ -6,7 +6,7 @@
 
 | Bank            | Developers page                                                    | API reference                                          | Status page                                           |
 | --------------- | ------------------------------------------------------------------ | ------------------------------------------------------ | ----------------------------------------------------- |
-| Banco do Brasil | https://developers.bb.com.br/                                      | https://developers.bb.com.br/docs                      | -                                                     |
+| Banco do Brasil | https://developers.bb.com.br/                                      | https://apoio.developers.bb.com.br/                    | -                                                     |
 | Bradesco        | https://developers.bradesco.com.br/                                | -                                                      | -                                                     |
 | BS2             | https://devs.bs2.com/                                              | https://devs.bs2.com/manual/banking/                   | -                                                     |
 | BTG Pactual     | https://developer.btgpactual.com/                                  | https://sandbox.developer.btgpactual.com/admin/sandbox | https://status.btgpactual.com/                        | 
