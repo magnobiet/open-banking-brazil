@@ -25,6 +25,7 @@
 
 | Plataform | Page                                                                         |
 | --------- | ---------------------------------------------------------------------------- |
+| Belvo     | [belvo.com](https://belvo.com/pt-br/)                                        |
 | Quanto    | [quan.to](https://quan.to/)                                                  |
 | TecBan    | [tecban.com.br](https://www.tecban.com.br/produtos-e-solucoes/open-finance/) |
 | Klavi     | [klavi.ai](https://klavi.ai/)                                                |
