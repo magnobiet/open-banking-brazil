@@ -20,6 +20,7 @@
 | Sicoob          | [developers.sicoob.com.br](https://developers.sicoob.com.br/)                           | [developers.sicoob.com.br](https://developers.sicoob.com.br/#!/documentacao)                             | [status.sisbr.com.br](https://status.sisbr.com.br/)                                                    |
 | Stark Bank      | [starkbank.com/sandbox](https://starkbank.com/sandbox)                                  | [starkbank.com/docs/api](https://starkbank.com/docs/api )                                                | [starkbank.com](status.starkbank.com)                                                                  |
 | banco BV        | [bvopen.com.br](https://www.bvopen.com.br/)                                             | [bvopen.com.br/solucoes](https://bvopen.com.br/solucoes)                                                 | -                                                                                                      |
+| XP Inc.         | [developer.xpinc.com](https://developer.xpinc.com/)                                     |                                                                                                          | -                                                                                                      |
 
 ## Plataforms
 
